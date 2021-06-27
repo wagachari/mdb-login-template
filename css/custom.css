@@ -1,0 +1,33 @@
+body{
+  background-color: #f3ffff
+
+}
+
+.form-check-input[type="checkbox"]:checked {
+  background-image: none;
+  background-color: #b23cfd !important;
+}
+.form-check-input:checked {
+    border-color: #b23cfd !important;
+}
+a{
+    color:#b23cfd;
+}
+
+.login {
+  margin-top:15vh !important;
+}
+
+.form-login {
+  width: 100% !important;
+  max-width: 330px !important;
+  padding: 15px !important;
+  margin: auto !important;
+  margin-bottom: 40px !important;
+
+}
+.login-header{
+font-size: large;
+font-stretch: extra-expanded;
+margin: 30px auto;
+}
